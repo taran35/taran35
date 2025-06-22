@@ -1,12 +1,13 @@
 # Salut, moi c'est Taran 👋
 
-🎓 **Étudiant passionné par les nouvelles technologies**
+🎓 **Étudiant passionné par les nouvelles technologies** (et peu actif sur Github)
 
 🌐 **Compétences principales**  
 - JavaScript  
 - HTML / CSS  
 - PHP  
 - MySQLi
+- C++
 
 🚀 **Actuellement en développement**  
 Je travaille sur un système de cloud (le dépôt sera bientôt disponible, restez connectés !).
