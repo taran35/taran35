@@ -1,16 +1,24 @@
-## Hi there 👋
+# Salut, moi c'est Taran 👋
 
-<!--
-**taran35/taran35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Étudiant passionné par les nouvelles technologies**
 
-Here are some ideas to get you started:
+🌐 **Compétences principales**  
+- JavaScript  
+- HTML / CSS  
+- PHP  
+- MySQLi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Actuellement en développement**  
+Je travaille sur un système de cloud (le dépôt sera bientôt disponible, restez connectés !).
+
+💡 **Passionné par**  
+Tout ce qui touche aux nouvelles technologies, à l'innovation et à la photographie !
+
+📸 **Retrouve-moi sur Instagram**  
+[instagram.com/taran.php](https://www.instagram.com/taran.php?igsh=YzEzNGRpdjVrZ3Fq)
+
+---
+
+> ❝ My crime is that of judging people by what they say and think, not what they look like. ❞  
+> <sub>— The Mentor</sub>
+
