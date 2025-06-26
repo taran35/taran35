@@ -10,9 +10,13 @@
 - C++
 
 🚀 **Actuellement en développement**  
+> **SiCSy**
+>  est un cloud simple customisable via plusieurs modules crée par moi ou d'autres contributeurs, basé en PHP et MySQL.
+[![cloud](https://github-readme-stats.vercel.app/api/pin?username=taran35&repo=SiCSy&show_owner=true&theme=tokyonight)](https://github.com/taran35/SiCSy)
 
-[![cloud](https://github-readme-stats.vercel.app/api/pin?username=taran35&repo=cloud&show_owner=true&theme=tokyonight)](https://github.com/taran35/cloud)
 
+> **VizoBot**
+>  (anciennement ModoBot) est un bot discord multifonction fait en discord.js v14 (inactif, repo indisponible)
 
 💡 **Passionné par**  
 Tout ce qui touche aux nouvelles technologies, à l'innovation et à la photographie !
