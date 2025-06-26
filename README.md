@@ -10,7 +10,9 @@
 - C++
 
 🚀 **Actuellement en développement**  
-Je travaille sur un système de cloud (le dépôt sera bientôt disponible, restez connectés !).
+
+[![cloud](https://github-readme-stats.vercel.app/api/pin?username=taran35&repo=cloud&show_owner=true&theme=tokyonight)](https://github.com/taran35/cloud)
+
 
 💡 **Passionné par**  
 Tout ce qui touche aux nouvelles technologies, à l'innovation et à la photographie !
@@ -23,3 +25,4 @@ Tout ce qui touche aux nouvelles technologies, à l'innovation et à la photogra
 > ❝ My crime is that of judging people by what they say and think, not what they look like. ❞  
 > <sub>— The Mentor</sub>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taran35&layout=donut&langs_count=5">
