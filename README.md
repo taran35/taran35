@@ -13,6 +13,7 @@
 > **SiCSy**
 >  est un cloud simple customisable via plusieurs modules crée par moi ou d'autres contributeurs, basé en PHP et MySQL.
 [![cloud](https://github-readme-stats.vercel.app/api/pin?username=taran35&repo=SiCSy&show_owner=true&theme=tokyonight)](https://github.com/taran35/SiCSy)
+> 
 [![cloud-module](https://github-readme-stats.vercel.app/api/pin?username=taran35&repo=discord_logs_webhook_for_SiCSy&show_owner=true&theme=tokyonight)](https://github.com/taran35/discord_logs_webhook_for_SiCSy)
 
 > **VizoBot**
