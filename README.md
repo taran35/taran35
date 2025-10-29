@@ -3,11 +3,14 @@
 🎓 **Étudiant passionné par les nouvelles technologies** (et peu actif sur Github)
 
 🌐 **Compétences principales**  
-- JavaScript  
-- HTML / CSS  
-- PHP  
-- MySQLi
-- C++
+<p align="start">
+  <h2>Langages utilisés :</h2><br>
+  <img src="https://skillicons.dev/icons?i=js,discordjs,nodejs,html,mysql,php,regex,py,cpp,godot"/>
+</p>
+<p align="start">
+  <h2>Outils utilisés :</h2><br>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux,ubuntu,raspberrypi"/>
+</p>
 
 🚀 **Actuellement en développement**  
 > **SiCSy**
