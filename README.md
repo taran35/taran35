@@ -15,7 +15,7 @@
 🚀 **Actuellement en développement**  
 > **SiCSy**
 >  est un cloud simple customisable via plusieurs modules, basé en PHP et MySQL.
-[![cloud](https://github-readme-stats.vercel.app/api/pin?username=taran35&repo=SiCSy&show_owner=true&theme=tokyonight)](https://github.com/taran35/SiCSy)
+[![cloud](https://githubreadmestats-blond.vercel.app/api/pin?username=taran35&repo=SiCSy&show_owner=true&theme=tokyonight)](https://github.com/taran35/SiCSy)
 
 
 > **VizoBot**
@@ -32,4 +32,4 @@ Tout ce qui touche aux nouvelles technologies, à l'innovation et à la photogra
 > ❝ My crime is that of judging people by what they say and think, not what they look like. ❞  
 > <sub>— The Mentor</sub>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taran35&layout=donut&langs_count=5">
+<img src="https://githubreadmestats-blond.vercel.app/api/top-langs?username=taran35&layout=donut&langs_count=5">
